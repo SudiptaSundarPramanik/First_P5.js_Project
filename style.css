@@ -1,14 +1,7 @@
 body{
     text-align: center;
-    background-image: linear-gradient(red,blue,green);
+    background-image: linear-gradient(blue,indigo);
     background-size: cover;
-}
-input{
-    width: 300px;
-    height: 50px;
-}
-label{
-    background-color: teal;
 }
 canvas{
     border:1px solid black;
